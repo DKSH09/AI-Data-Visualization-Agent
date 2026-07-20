@@ -1,5 +1,5 @@
 
-**AI Data Visualization Agent**
+# AI Data Visualization Agent
 
 **Conversational data exploration, powered by LLMs.**
 
@@ -34,8 +34,8 @@ Tactara’s AI Data Visualization Agent transforms static datasets into dynamic 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Tactara/ai-data-visualization-agent.git
-cd ai-data-visualization-agent
+git clone https://github.com/DKSH09/AI-Data-Visualization-Agent.git
+cd AI-Data-Visualization-Agent
 ```
 
 ### 2. Install Dependencies
@@ -55,7 +55,7 @@ Input them via the Streamlit sidebar on first run.
 ### 4. Launch the App
 
 ```bash
-streamlit run ai_data_visualisation_agent.py
+streamlit run ai_data_viz_agent.py
 ```
 
 ---
